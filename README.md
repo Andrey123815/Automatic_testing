@@ -6,7 +6,7 @@
   
   
   
-# Languages and technologes  
+## Languages and technologes  
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=6296CC)
 ![PyTest](https://img.shields.io/badge/-PyTest-090909?style=for-the-badge&logo=PyTest&logoColor=6296CC) 
 <br>
