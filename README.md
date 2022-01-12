@@ -1,4 +1,10 @@
 <div  align="left">
+ 
+## About Repostitory
+  
+#### Immersion in automatic testing of products, preparation for admission to the Vk Group course "Automatic testing"
+  
+  
   
 # Languages and technologes  
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=6296CC)
